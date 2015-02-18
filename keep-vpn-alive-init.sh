@@ -36,6 +36,6 @@ case "$1" in
   *) 
     echo "Usage: keep-vpn-alive [start|stop]" >&2 
     exit 3 
-    ;; 
+    ;;
 esac
 :
